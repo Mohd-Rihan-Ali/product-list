@@ -2,8 +2,6 @@
 
 Welcome to the Product List repository! This is a simple web application that displays a list of products and allows you to filter and sort them. You can use this repository as a starting point for your own projects or as a learning resource for React and front-end development.
 
-![Product List Screenshot](screenshot.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -63,7 +61,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Push your changes to your fork on GitHub.
-5. Open a pull request to the `main` branch of this repository.
+5. Open a pull request to the `master` branch of this repository.
 
 Please ensure that your code follows the project's coding style and conventions.
 
