@@ -3,7 +3,6 @@
 
 A simple web application that displays a list of products and allows users to apply filters and pagination. Built with React.
 
-![Product List Screenshot](screenshot.png)
 
 ## Features
 
@@ -60,5 +59,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - This project is for educational purposes.
 - Feel free to contribute, suggest improvements, or report issues.
 ```
-
-You can replace the placeholders such as "yourusername" and "screenshot.png" with your actual GitHub username and a screenshot of your app. You can also expand or modify this README file to include more details about your project if needed.
