@@ -1,33 +1,30 @@
+# Product List
 
-```markdown
-# Product List App
+Welcome to the Product List repository! This is a simple web application that displays a list of products and allows you to filter and sort them. You can use this repository as a starting point for your own projects or as a learning resource for React and front-end development.
 
-This is a simple web application that displays a list of products. Users can filter and sort the products based on various criteria.
+![Product List Screenshot](screenshot.png)
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)
+- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Features
-
-- View a list of products with titles, descriptions, images, and prices.
+- View a list of products with images, titles, descriptions, and prices.
 - Filter products based on category, minimum price, and maximum price.
 - Sort products by price or name.
-- Navigate through paginated product pages.
+- Navigate through pages of products using pagination.
+- Responsive design for a better user experience on various devices.
 
-## Installation
+## Getting Started
+To get started with this project, follow these steps:
 
-To run the application locally, follow these steps:
-
-1. Clone the repository to your local machine:
-
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/product-list.git
+   git clone https://github.com/Mohd-Rihan-Ali/product-list.git
    ```
 
 2. Change your directory to the project folder:
